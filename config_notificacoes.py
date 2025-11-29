@@ -1,7 +1,7 @@
 # ===== CONFIGURAÇÃO TELEGRAM =====
 TELEGRAM_HABILITADO = True  # Mude para True para habilitar
-TELEGRAM_BOT_TOKEN = "8543722496:AAFI2WBS81cnddgLTVMAWfHhsvO58v0Ag-Q"  # Token fornecido pelo @BotFather
-TELEGRAM_CHAT_ID = "7157096111"  # ID obtido do @userinfobot
+TELEGRAM_BOT_TOKEN = "xxx"  # Token fornecido pelo @BotFather
+TELEGRAM_CHAT_ID = "xxx"  # ID obtido do @userinfobot
 
 # ===== CONFIGURAÇÃO EMAIL =====
 EMAIL_HABILITADO = False  # Mude para True para habilitar
