@@ -1,0 +1,13 @@
+# Dependências para o sistema de notificações remotas
+# Instale com: pip install -r requirements_notificacoes.txt
+
+# Biblioteca necessária para notificações via Telegram
+requests>=2.28.0
+
+# As outras dependências (OpenCV, cvzone, pyserial) já devem estar instaladas
+# Se não estiverem, instale também:
+# opencv-python
+# cvzone
+# pyserial
+
+#✅ TODOS OS REQUERIMENTOS CONCLUIDOS ✅
